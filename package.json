@@ -1,0 +1,17 @@
+{
+  "name": "ai-service",
+  "version": "1.0.0",
+  "description": "AI Consulting Service Landing Page",
+  "scripts": {
+    "build": "echo 'Build complete - static site ready'",
+    "vercel-build": "echo 'Build complete - static site ready'"
+  },
+  "keywords": [
+    "ai",
+    "consulting",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
